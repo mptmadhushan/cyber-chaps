@@ -1,0 +1,34 @@
+/*CyberChaps
+Template Name: Fruitkha - Responsive Bootstrap4  Projects Template
+Template URI: 
+Description: Bootstrap template for fruits or any other kind of  Projects
+Author:  CyberChaps
+Author URI: https://imransdesign.com/
+Version: 1.0
+*/
+
+// Base
+@import "base/variables";
+@import "base/mixins";
+@import "base/typography";
+
+// Common
+@import "common/common";
+@import "common/header";
+@import "common/footer";
+@import "common/hover";
+
+// Sections
+@import "sections/hero";
+@import "sections/list";
+@import "sections/news";
+@import "sections/cart-banner";
+@import "sections/testimonials";
+@import "sections/about";
+@import "sections/ Projects-banner";
+
+// Pages
+@import "pages/about";
+@import "pages/contact";
+@import "pages/ Projects";
+@import "pages/404";
